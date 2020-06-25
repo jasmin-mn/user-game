@@ -1,5 +1,7 @@
 ## Javascript assignment
 ![javascript reaction](js.png)
+
+
 **we want to create js game for the user reaction using the mouse click event**
 
 1.  create the function  `getRandomColor`  tho generate random color to use it for this game
