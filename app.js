@@ -9,6 +9,7 @@ function getRandomDiv(){
     start=new Date().getTime();
     const clientW1 = Math.random() * document.body.clientWidth + "px";
     const clientH1 = Math.random() * document.body.clientHeight + "px";
+    div.style.left=Math.floor(Math.random()*800)+"px";
 div.style.right=Math.floor(Math.random()*400)+"px";
 div.style.width=Math.floor(Math.random()*400)+"px";
 div.style.height=Math.random()*500+"px";
